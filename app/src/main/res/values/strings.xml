@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">File Storage</string>
+    <string name="empty_fields">Fill the file\'s name and content</string>
+    <string name="empty_list">No files added, please add a new file</string>
+    <string name="add_success">File successfully added</string>
+    <string name="delete_success">File successfully deleted</string>
+    <string name="delete_error">An error occurred when try to delete the file</string>
+    <string name="encrypted">Encrypted</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="permission_granted">Permission granted</string>
+
+    <string name="radio_internal">Internal</string>
+    <string name="radio_external">External</string>
+    <string name="modal_title">Create file</string>
+</resources>
